@@ -1,5 +1,5 @@
 
-<img src="https://github.com/bisiAlgoRuthM/bisiAlgoRuthM/blob/main/bisiAlgoRuthM.png" width="100%">
+<img src="https://github.com/bisiAlgoRuthM/bisiAlgoRuthM/blob/main/Asset%201.png" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielbisina/" target="_blank">
