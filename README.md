@@ -32,7 +32,7 @@ A computer science student, with good knowledge and practical knowledge on Pytho
 <h1 align="center">Connect</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danielbisina/" target="_blank">
+  <a href="https://www.linkedin.com/in/adebisi-ruth-adegoke-381192252/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/bisiibaby" target="_blank">
