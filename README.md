@@ -10,7 +10,7 @@
   </a>
 </p>
 
-A computer science student, with good knowledge and practical knowledge on Python and its Libraries. Particularly skilled in Data Science and Django development. Technologically Savy and curious about what the future holds.
+A data scientist, with good knowledge and practical knowledge on Python and its Libraries. Particularly skilled in Data Science and Django development. Technologically Savy and curious about what the future holds.
 
 
 <h1 align="center">Technologies</h1>
