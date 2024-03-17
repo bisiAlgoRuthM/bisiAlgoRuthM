@@ -10,8 +10,7 @@
   </a>
 </p>
 
-A data scientist, with good knowledge and practical knowledge on Python and its Libraries. Particularly skilled in Data Science and Django development. Technologically Savy and curious about what the future holds.
-
+Results-driven computer scientist with strong problem-solving aptitude and keen attention to detail. Proficient in the end-to end data science methodology. General programming background with skills, specializing in data science with Python. I am adept at applying these principles to diverse contexts, thereby contributing to the invention of robust long-term success strategies based on the relevant stakeholders’ demands. As a life-long learner, I am eager to take on new challenges, not only acquiring knowledge, but leveraging it to make meaningful contributions in this field.
 
 <h1 align="center">Technologies</h1>
 
